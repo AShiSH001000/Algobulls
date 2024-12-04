@@ -161,7 +161,7 @@ python-multipart==0.0.9
 pyttsx3==2.90
 pytweening==1.2.0
 pytz==2024.1
-#pywin32==306
+pywin32
 PyYAML==6.0.1
 pyzmq==25.1.2
 react==4.3.0
@@ -236,7 +236,7 @@ wheel==0.43.0
 whichcraft==0.6.1
 widgetsnbextension==4.0.11
 wikipedia==1.4.0
-WMI==1.5.1
+WMI
 wrapt==1.16.0
 xxhash==3.4.1
 yarl==1.9.4
