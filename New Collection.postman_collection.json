@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "be50c005-d464-44fa-9580-f1e214c77c55",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "39467548"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
