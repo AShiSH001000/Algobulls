@@ -39,6 +39,7 @@ dill==0.3.8
 distlib==0.3.9
 # Editable install with no version control (Django==5.1.dev20240319090312)
 Django==4.2.7
+djangorestframework==3.14.0
 dlib==19.24.6
 docker==7.1.0
 docker-pycreds==0.4.0
